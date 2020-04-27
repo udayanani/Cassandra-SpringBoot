@@ -1,0 +1,6 @@
+Examples working with CommandLineRunner
+
+https://github.com/ashutoshsahoo/spring-boot-oc-cassandra/blob/master/src/main/java/in/ashu/oc/SpringBootOcApplication.java
+
+https://github.com/jxblum/spring-data-cassandra-examples
+
